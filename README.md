@@ -1,5 +1,5 @@
 # Vrinda_Store_Sales_Project
-A retail-focused Excel dashboard project designed to analyze sales trends, inventory levels, and customer purchasing patterns for Vrinda Store. This project demonstrates strong proficiency in Microsoft Excel, including data cleaning, KPI tracking, and dashboard creation.
+A retail sales and inventory analysis project using Excel, focused on uncovering product trends, customer insights, and stock efficiency. Built an interactive dashboard with PivotTables, charts, and formulas to track key metrics like revenue, inventory levels, and customer performance, enabling data-driven decisions for business growth.
 # Key Features-
 Sales Performance Analysis.
 
